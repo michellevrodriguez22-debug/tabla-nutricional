@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # app.py
 import math
 from io import BytesIO
